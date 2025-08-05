@@ -13,7 +13,7 @@ I'm solving the **same problem** in:
 
 This helps me understand the logic in different languages and compare the syntax.
 
-Right now, I’ve added 3 beginner-level problems in each folder.  
+Right now, I’ve added 5 beginner-level problems in each folder.  
 I’ll keep learning and updating this repo as I grow!
 
 Thanks for visiting!!
