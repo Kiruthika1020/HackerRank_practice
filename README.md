@@ -7,9 +7,9 @@ Folder Overview:
 
 I'm solving the **same problem** in:
 
-- ✅ C#
 - ✅ Java
 - ✅ Python
+- ✅ C#
 
 This helps me understand the logic in different languages and compare the syntax.
 
